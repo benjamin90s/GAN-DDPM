@@ -5,6 +5,6 @@ Execute the cells in sequence from top to bottom by pressing Shift + Enter on ea
 DC-GAN runtime: ~ 1 hour.
 DDPM runtime: ~ 10 hours.
 
-Directory Structure<img width="624" alt="Screenshot 2025-05-09 at 10 48 34 PM" src="https://github.com/user-attachments/assets/30491bc0-a389-413b-9325-25ca2292db09" />
+<img width="624" alt="Screenshot 2025-05-09 at 10 48 34 PM" src="https://github.com/user-attachments/assets/30491bc0-a389-413b-9325-25ca2292db09" />
 
 
