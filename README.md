@@ -8,3 +8,4 @@ DDPM runtime: ~ 10 hours.
 <img width="624" alt="Screenshot 2025-05-09 at 10 48 34 PM" src="https://github.com/user-attachments/assets/30491bc0-a389-413b-9325-25ca2292db09" />
 
 
+![Uploading output.png…]()
